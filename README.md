@@ -1,20 +1,57 @@
-# Weather-App
-A responsive Weather App built using HTML, CSS, JavaScript, and OpenWeather API to fetch real-time weather data by city search.
+# 🌦️ Weather App
 
+**Enter your city name and instantly get the current weather details using OpenWeatherMap API.**
 
-Features:
+![Made with HTML](https://img.shields.io/badge/HTML5-orange)
+![Made with CSS](https://img.shields.io/badge/CSS3-blue)
+![Made with JS](https://img.shields.io/badge/JavaScript-yellowgreen)
 
-Search weather by city
-Real-time temperature
-Humidity & wind speed
-Clean responsive UI
-API integration
+---
 
+## 🚀 Features
 
-#Screenshot
-<img width="1692" height="903" alt="output" src="https://github.com/user-attachments/assets/16c62007-55eb-457f-b8f2-92b1d908d102" />
+* Search weather by city name.
+* Displays **temperature, weather condition, and details.**
+* Simple and clean UI design.
+* Powered by **OpenWeatherMap API.**
 
+---
 
-#Demo Video
-https://github.com/user-attachments/assets/5c7ca341-3fc8-43be-b719-4e1a599e8a54
+## 📸 Screenshot
 
+![Weather App Screenshot](screenshot.png)
+
+---
+
+## 📁 Project Structure
+
+```
+Weather-app/
+│
+├── index.html
+├── style.css
+├── app.js
+└── screenshot.png
+```
+
+---
+
+## ✍️ Author
+
+* Dinesh Singh Dhami
+
+* GitHub:  [Dinesh Singh Dhami](https://github.com/dineshsinghdhami)
+
+* Linkedin: [Dinesh Singh Dhami](https://www.linkedin.com/in/dineshsinghdhami1/)
+
+* Portfolio: [dineshsinghdhami.com.np](http://dineshsinghdhami.com.np/)
+
+---
+
+## 🌟 Contributing
+
+* Feel free to fork this project, make improvements, and submit pull requests!
+
+---
+
+**Made with ❤️ by Dinesh Singh Dhami**
