@@ -42,7 +42,7 @@ Weather-app/
 
 * GitHub:  [Dinesh Singh Dhami](https://github.com/dineshsinghdhami)
 
-* Linkedin: [Dinesh Singh Dhami](https://www.linkedin.com/in/dineshsinghdhami1/)
+* Linkedin: [Dinesh Singh Dhami](https://www.linkedin.com/in/dineshsinghdhami2/)
 
 * Portfolio: [dineshsinghdhami.com.np](http://dineshsinghdhami.com.np/)
 
